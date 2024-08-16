@@ -1,4 +1,4 @@
-# Pearl Thoughts
+# Notification Service
 
 ## Description
 Pearl Thoughts is a Node.js application built with Express and TypeORM. It provides a notification service using AWS SES and Nodemailer.
